@@ -40,13 +40,13 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.35355339"
-     inkscape:cx="950.63438"
+     inkscape:cx="768.33122"
      inkscape:cy="522.39678"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1366"
-     inkscape:window-height="718"
+     inkscape:window-width="1680"
+     inkscape:window-height="1002"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1" />
@@ -58,7 +58,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -157,26 +157,6 @@
    id="tspan3166">1</tspan> and FirstB LastB<tspan
    style="font-size:65%;baseline-shift:super"
    id="tspan3168">2</tspan></tspan></text>
-    <rect
-       style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.49935079;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
-       id="rect2985-3"
-       width="2103.0042"
-       height="199.1839"
-       x="0.74967539"
-       y="852.42847"
-       clip-path="none" />
-    <text
-       xml:space="preserve"
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
-       x="515.71271"
-       y="966.56726"
-       id="text4178"
-       sodipodi:linespacing="125%"><tspan
-         sodipodi:role="line"
-         id="tspan4180"
-         x="515.71271"
-         y="966.56726"
-         style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace">https://adams.cms.waikato.ac.nz/</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
@@ -187,12 +167,46 @@
        transform="translate(0,-1927.5591)"><tspan
          sodipodi:role="line"
          id="tspan3033" /></text>
-    <image
-       y="-1193.2129"
-       x="111.17645"
-       id="image4254"
-       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAABHNCSVQICAgIfAhkiAAAAbZJREFU eJzt3AGKwjAQQNF29f4ndnFv0AhtbNj/3gFE5DNgmum+bY+Nrp+7vwD3EkCcAOIEECeAOAHECSBO AHECiBNAnADiBBAngDgBxAkg7nn3Fzjv9Z77+c997uffywSIE0CcAOIEECeAOAHECSDugnOA38n/ w5nJBIgTQJwA4gQQJ4A4AcQJIO4L9wEes5+nO4c4wQSIE0CcAOIEECeAOAHECSBuH78n0L37c9b+ /UyAOAHECSBOAHECiBNAnADi/sH7AUbsLRwxAeIEECeAOAHECSBOAHECiAucA4y09xZMgDgBxAkg TgBxAogTQJwA4j7YCxgZPW+f/T977Xv3qzMB4gQQJ4A4AcQJIE4AcQKI+8J9APfyV2YCxAkgTgBx AogTQJwA4gQQd8E5wPR79SPOGU4wAeIEECeAOAHECSBOAHECiLtgL2B19haOmABxAogTQJwA4gQQ J4A4AcR5T2B8b8EEiBNAnADiBBAngDgBxAkgLnAOYG/hiAkQJ4A4AcQJIE4AcQKIE0BcYC+AIyZA nADiBBAngDgBxAkgTgBxAogTQJwA4gQQJ4A4AcQJIE4AcX+LghsZdhH0XAAAAABJRU5ErkJggg== "
-       height="202.28572"
-       width="202.28572" />
+    <g
+       id="g3800">
+      <rect
+         clip-path="none"
+         y="851.0448"
+         x="0.74967539"
+         height="199.1839"
+         width="2103.0042"
+         id="rect2985-3"
+         style="fill:#000000;fill-opacity:1;stroke:#ffffff;stroke-width:1.49935079;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <text
+         sodipodi:linespacing="125%"
+         id="text4178"
+         y="966.08594"
+         x="515.71271"
+         style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+         xml:space="preserve"><tspan
+           style="font-size:56px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Monospace;-inkscape-font-specification:Monospace"
+           y="966.08594"
+           x="515.71271"
+           id="tspan4180"
+           sodipodi:role="line">https://adams.cms.waikato.ac.nz/</tspan></text>
+      <g
+         transform="translate(-54,0.58244115)"
+         id="g3796">
+        <rect
+           style="fill:#ffffff;fill-opacity:1;stroke:#ffffff;stroke-width:1;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect3794"
+           width="197.9899"
+           height="181.01921"
+           x="62.412682"
+           y="859.54468" />
+        <image
+           y="848.91144"
+           x="60.264771"
+           id="image4254"
+           xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAABHNCSVQICAgIfAhkiAAAAbZJREFU eJzt3AGKwjAQQNF29f4ndnFv0AhtbNj/3gFE5DNgmum+bY+Nrp+7vwD3EkCcAOIEECeAOAHECSBO AHECiBNAnADiBBAngDgBxAkg7nn3Fzjv9Z77+c997uffywSIE0CcAOIEECeAOAHECSDugnOA38n/ w5nJBIgTQJwA4gQQJ4A4AcQJIO4L9wEes5+nO4c4wQSIE0CcAOIEECeAOAHECSBuH78n0L37c9b+ /UyAOAHECSBOAHECiBNAnADi/sH7AUbsLRwxAeIEECeAOAHECSBOAHECiAucA4y09xZMgDgBxAkg TgBxAogTQJwA4j7YCxgZPW+f/T977Xv3qzMB4gQQJ4A4AcQJIE4AcQKI+8J9APfyV2YCxAkgTgBx AogTQJwA4gQQd8E5wPR79SPOGU4wAeIEECeAOAHECSBOAHECiLtgL2B19haOmABxAogTQJwA4gQQ J4A4AcR5T2B8b8EEiBNAnADiBBAngDgBxAkgLnAOYG/hiAkQJ4A4AcQJIE4AcQKIE0BcYC+AIyZA nADiBBAngDgBxAkgTgBxAogTQJwA4gQQJ4A4AcQJIE4AcX+LghsZdhH0XAAAAABJRU5ErkJggg== "
+           height="202.28572"
+           width="202.28572" />
+      </g>
+    </g>
   </g>
 </svg>
